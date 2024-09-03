@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+langchain-ollama
+langchain-experimental
+neo4j
+tiktoken
+yfiles_jupyter_graphs
+python-dotenv
